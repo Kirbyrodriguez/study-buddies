@@ -1,7 +1,7 @@
 # Study Buddy App
 
 ### Made for NWHACKS 2022 Hackathon
-
+ 
 ## Description
 
 Study Buddy is a web app that is designed to bring back the social aspect of university by connecting students online in a way that is quick and seamless and allows them to meet people in similar studies as them. Once signed up, students are allowed to connect with other students that are taking similar courses as them or go to the same school. Users also have the option to use the map feature, which features study spots across Metro Vancouver and rates these spots according to noise level, workspace, and COVID safety. For users who prefer a remote alternative to meeting new people, we also have a video call feature that allows students to study together remotely from the safety of their own homes. Study Buddy is a MERN app with a database as a service backend, and uses react-bootstrap to format the site. Chatting is hosted on firebase and video call features are provided by the Microsoft Azure API.
