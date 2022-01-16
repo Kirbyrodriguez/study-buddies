@@ -14,7 +14,7 @@ Study Buddy is a web app that is designed to bring back the social aspect of uni
 
 <img width="402" alt="Screen Shot 2022-01-16 at 13 01 51" src="https://user-images.githubusercontent.com/7061255/149677945-2730423d-5300-430b-96cd-cc0bbf0a6a03.png">
 
-
+  
 How to get started:
 
 ```
